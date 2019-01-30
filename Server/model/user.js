@@ -12,7 +12,10 @@ var User = new mongoose.Schema({
       type: String,
       default: 'user',
       enum:['user', 'admin']
-    }
+    },
+    statut: {
+      type: String,
+    },
   });
   mongoose.model('User', User);
   module.exports = User;

@@ -1,4 +1,4 @@
-/*import { PostComment } from './postcomment.po';
+import { PostComment } from './postcomment.po';
 import {browser} from 'protractor';
 
 describe('Test Comment', () => {
@@ -40,4 +40,4 @@ browser.sleep(5000);
 page.submitComment().click();
 browser.sleep(5000);
    });
-});*/
+});

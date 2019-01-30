@@ -1,4 +1,4 @@
-/*import { browser, by, element } from 'protractor';
+import { browser, by, element } from 'protractor';
 
 export class RegisterPage {
     navigateTo() {
@@ -29,4 +29,4 @@ export class RegisterPage {
      return element(by.css('#btnlogout'));
    }
 }
-*/
+

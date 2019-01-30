@@ -1,4 +1,4 @@
-/*import { RegisterPage } from './register.po';
+import { RegisterPage } from './register.po';
 import { browser } from 'protractor';
 describe('TEST Register', () => {
   let page: RegisterPage;
@@ -75,4 +75,4 @@ describe('TEST Register', () => {
                 browser.pause();
               });
 });
-*/
+

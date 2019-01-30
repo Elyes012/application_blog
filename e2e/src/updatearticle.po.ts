@@ -1,4 +1,4 @@
-/*import { browser, by, element } from 'protractor';
+import { browser, by, element } from 'protractor';
 
 export class UpdateArticle {
     navigateTo() {
@@ -36,4 +36,4 @@ export class UpdateArticle {
       return element(by.css('#btneditarticle'));
     }
   }
-*/
+

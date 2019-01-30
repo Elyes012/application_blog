@@ -1,4 +1,4 @@
-/*import { browser, by, element } from 'protractor';
+import { browser, by, element } from 'protractor';
 
 export class PostComment {
   navigateTo() {
@@ -29,5 +29,4 @@ readMore() {
 submitComment() {
   return element(by.css('#btncomment'));
 }
-
-}*/
+}

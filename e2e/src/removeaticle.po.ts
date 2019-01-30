@@ -1,4 +1,4 @@
-/*import { browser, by, element } from 'protractor';
+import { browser, by, element } from 'protractor';
 
 export class RemoveArticle {
   navigateTo() {
@@ -23,4 +23,4 @@ export class RemoveArticle {
   editArticleMenu() {
     return element(by.css('#btneditarticle'));
   }
-}*/
+}

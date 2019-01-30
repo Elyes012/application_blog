@@ -148,6 +148,7 @@ it('edit article all input invalid', () => {
   component.updateSubjectID(id);
  expect(component.editArticle.invalid).toBeTruthy();
 });
+
 it('remove comment', () => {
 const id = '5c0293e24b1cdd191077e091';
 component.getAllComments();

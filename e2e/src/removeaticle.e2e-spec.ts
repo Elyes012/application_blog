@@ -1,4 +1,4 @@
-/*import { RemoveArticle } from './removeaticle.po';
+import { RemoveArticle } from './removeaticle.po';
 import {browser} from 'protractor';
 
 describe('workspace-project App', () => {
@@ -25,4 +25,4 @@ describe('workspace-project App', () => {
      browser.sleep(4000);
    });
 
-});*/
+});

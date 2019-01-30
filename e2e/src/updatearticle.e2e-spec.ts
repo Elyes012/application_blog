@@ -1,4 +1,4 @@
-/*import { UpdateArticle } from './updatearticle.po';
+import { UpdateArticle } from './updatearticle.po';
 import { browser } from 'protractor';
 describe('TEST Update Article', () => {
   let page: UpdateArticle;
@@ -84,4 +84,4 @@ browser.sleep(3000);
   browser.refresh();
   browser.sleep(5000);
    });
-  });*/
+  });
